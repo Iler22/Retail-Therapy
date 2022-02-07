@@ -10,9 +10,10 @@ The data stored in the database will then be rendered in Insomnia using GET, POS
 
 ## Demonstration
 
-Please see below demonstration of the functionality of Retail Therapy.
+Please click on the below link for a demonstration of the functionality of Retail Therapy.
 
-## Screenshot
+https://drive.google.com/drive/folders/1M2XNxDd6eiJ9KtVDD6gt9sgstK7qX1YJ?usp=sharing
+
 
 ## Table of Contents
 
@@ -52,4 +53,4 @@ Please note that you will have to have a MySQL account and password to test this
 ## Questions
 
 Questions about this repository? Please contact me at [ilerwatson22@gmail.com](mailto:ilerwatson22@gmail.com). View more of my work in GitHub at https://github.com/Iler22
-http://127.0.0.1:5500/dist/team.html
+
